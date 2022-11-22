@@ -1,2 +1,3 @@
-# ibm-machine-learning
-IBM Machine Learning Professional Certificate
+# IBM Machine Learning 
+
+Professional certificate course offered through Coursera
